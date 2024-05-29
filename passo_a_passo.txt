@@ -1,0 +1,6 @@
+Passo 1 Ler as imagens
+Passo 2 Selecionar uma imagem aleatória da pasta
+Passo 3 Recortar a imagem
+Passo 4 Dar tempo para a pessoa responder
+Passo 5 Checar se a resposta está certa
+Passo 6 Repetir
